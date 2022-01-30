@@ -18,17 +18,17 @@ We will use the classes recorded from the last year (see our previous [class20](
 
 ### [Link to the YouTube channel with video lectures](https://www.youtube.com/playlist?list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT)
 
- * L01: The Expectation Operator
- * L02: Gaussians
- * L03: Gaussian II
- * L04: Bayes Filter and Kalman Filter
- * L05: Motion and Sensor Models
+* [L01: The Expectation Operator](https://www.youtube.com/watch?v=0y63AnAhD8k&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=1)
+ * [L02: Gaussians](https://www.youtube.com/watch?v=ja7VCtiyKps&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=2)
+ * [L03: Gaussian II](https://www.youtube.com/watch?v=3XvHDKRzAs8&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=3)
+ * [L04: Bayes Filter and Kalman Filter](https://www.youtube.com/watch?v=9ckoViG3pYE&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=4)
+ * [L05: Motion and Sensor Models](https://www.youtube.com/watch?v=vd5n0Q27eVg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=5)
  * L06: EKF and Localization
  * L07: Particle Filter and Monte-Carlo Localization
  * L08: EKF SLAM with known correspondences
  * L09: Data Association
  * L10: Smoothing and Mapping (SAM), GraphSLAM
- * L11: Squared Root SAM and Pose SLAM
+ * L11: Pose SLAM
  * L12: 3D Poses and Rigid Body Transformations
  * L13
  * L14
