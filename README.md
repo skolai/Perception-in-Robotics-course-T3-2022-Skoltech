@@ -5,7 +5,7 @@ This repository includes all material used during the course: Class notes and pr
 
 > * Instructor: Gonzalo Ferrer
 > * Teaching Assistant: Konstantin Pakulev
-> * Teaching Assistant: Hekmat Taherinejat
+> * Teaching Assistant: Hekmat Taherinejad
 > * [OFFICIAL Telegram channel with TAs](https://t.me/+_5M0AnD-26M5MmRi)
 
 For the logistics, this course will be taught in hybrid mode, that is, the student will watch the corresponding class in advance (video) and then other related activities will happen, such as Q&A, seminars and small exercises to strengthen the learning experience.
