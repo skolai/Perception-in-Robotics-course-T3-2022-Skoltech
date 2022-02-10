@@ -23,9 +23,9 @@ We will use the classes recorded from the last year (see our previous [class20](
  * [L03: Gaussian II](https://www.youtube.com/watch?v=3XvHDKRzAs8&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=3)
  * [L04: Bayes Filter and Kalman Filter](https://www.youtube.com/watch?v=9ckoViG3pYE&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=4)
  * [L05: Motion and Sensor Models](https://www.youtube.com/watch?v=vd5n0Q27eVg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=5)
- * L06: EKF and Localization
- * L07: Particle Filter and Monte-Carlo Localization
- * L08: EKF SLAM with known correspondences
+ * [L06: EKF and Localization](https://www.youtube.com/watch?v=2Idz_08NYKc&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=6)
+ * [L07: Particle Filter and Monte-Carlo Localization](https://www.youtube.com/watch?v=KBoSaTghjeg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=7)
+ * [L08: EKF SLAM with known correspondences](https://www.youtube.com/watch?v=w7XaxW-dIbI&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=8)
  * L09: Data Association
  * L10: Smoothing and Mapping (SAM), GraphSLAM
  * L11: Pose SLAM
@@ -42,7 +42,8 @@ We will use the classes recorded from the last year (see our previous [class20](
 Deadline dates for submitting problem sets, in the folder `PS*`:
 
  * 9-Feb-2022, PS1: Gaussians and Visualization 
- * 20-Feb-2022, PS2: Localization
+ * ~~20-Feb-2022, PS2: Localization~~
+ * 22-Feb-2022, PS2: Localization **NEW DATE**
  * 6-March-2022, PS3: SLAM
 
 
