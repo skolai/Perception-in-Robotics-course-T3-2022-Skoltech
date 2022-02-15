@@ -30,8 +30,8 @@ We will use the classes recorded from the last year (see our previous [class20](
  * L10: Smoothing and Mapping (SAM), GraphSLAM
  * L11: Pose SLAM
  * L12: 3D Poses and Rigid Body Transformations
- * L13
- * L14
+ * L13: Mapping
+ * L14: Visual SLAM
 
 
 
