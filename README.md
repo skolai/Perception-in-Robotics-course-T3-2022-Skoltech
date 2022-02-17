@@ -26,8 +26,8 @@ We will use the classes recorded from the last year (see our previous [class20](
  * [L06: EKF and Localization](https://www.youtube.com/watch?v=2Idz_08NYKc&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=6)
  * [L07: Particle Filter and Monte-Carlo Localization](https://www.youtube.com/watch?v=KBoSaTghjeg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=7)
  * [L08: EKF SLAM with known correspondences](https://www.youtube.com/watch?v=w7XaxW-dIbI&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=8)
- * L09: Data Association
- * L10: Smoothing and Mapping (SAM), GraphSLAM
+ * L09: Smoothing and Mapping (SAM), GraphSLAM
+ * L10: Data Association
  * L11: Pose SLAM
  * L12: 3D Poses and Rigid Body Transformations
  * L13: Mapping
