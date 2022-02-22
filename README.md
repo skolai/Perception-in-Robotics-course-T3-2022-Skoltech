@@ -30,8 +30,11 @@ We will use the classes recorded from the last year (see our previous [class20](
  * [L10: Smoothing and Mapping (SAM), GraphSLAM](https://www.youtube.com/watch?v=q8_LQLLekWs&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=10)
  * L11: Pose SLAM
  * [L12: 3D Poses and Rigid Body Transformations](https://www.youtube.com/watch?v=h-A8x10JKNI)
- * [L13: Mapping](https://www.youtube.com/watch?v=ej67GPM-Wmg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=17)
- * [L14: Introduction to Visual SLAM](https://www.youtube.com/watch?v=6jYEoY51tnM&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=18)
+ * [L13a (Optional): Differentiation over SE3](https://www.youtube.com/watch?v=FkVET_3AJ7o&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=15)
+ * [L13b (Optional): Optimization on SE3](https://www.youtube.com/watch?v=kOUKad7B3As&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=15)
+ * [L14: Point Cloud Alignment](https://www.youtube.com/watch?v=m5KJvI0oR-8&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=16)
+ * [L15: Mapping](https://www.youtube.com/watch?v=ej67GPM-Wmg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=17)
+ * [L16: Introduction to Visual SLAM](https://www.youtube.com/watch?v=6jYEoY51tnM&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=18)
 
 
 
