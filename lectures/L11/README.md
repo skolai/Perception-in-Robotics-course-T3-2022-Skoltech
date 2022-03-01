@@ -10,3 +10,5 @@ Topics in Lecture 11 include:
  
 Recommended reading: Kumerle 2011, Kaes 2008,2012
 
+Previous lecture [L11: Squared Root SAM](https://www.youtube.com/watch?v=7jGpjXLEID8&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=11)
+

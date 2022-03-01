@@ -46,7 +46,7 @@ Deadline dates for submitting problem sets, in the folder `PS*`:
  * 9-Feb-2022, PS1: Gaussians and Visualization 
  * ~~20-Feb-2022, PS2: Localization~~
  * 22-Feb-2022, PS2: Localization **NEW DATE**
- * 6-March-2022, PS3: SLAM
+ * 10-March-2022, PS3: SLAM
 
 
 ## Final Course Project
